@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/8i7cp9bb8bimqupe?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/env)
 
-https://evgeniy-27.github.io/env/
+[GitHub Pages](https://evgeniy-27.github.io/env/)
 
 ### Yarn
 
